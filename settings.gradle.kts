@@ -13,3 +13,4 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+rootProject.name = "Khairpur-Boys-Hostel-Karachi"

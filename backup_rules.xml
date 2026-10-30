@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<full-backup-content>
-    <include domain="database" path="khairpur_hostel_database" />
-    <include domain="sharedpref" path="kbh_secure_store.xml" />
-</full-backup-content>
